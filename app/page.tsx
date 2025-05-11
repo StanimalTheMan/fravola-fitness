@@ -33,11 +33,10 @@ export default function Home() {
             rel="noopener noreferrer"
           >
             <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
+              src="/images/fravola-fitness.png"
+              alt="Fravola Fitness Logo"
+              width={500}
+              height={300}
             />
             Deploy now
           </a>
